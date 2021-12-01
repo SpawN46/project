@@ -56,7 +56,9 @@ console.log(st && st_2);
 console.log(st && !st_2);
 console.log(st || st_2);
 
-var number_test = 11;
+var number_test = 13;
+
+
 
 
 
